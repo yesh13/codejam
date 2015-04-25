@@ -1,0 +1,7 @@
+*
+
+# allow
+!*/
+!.gitignore
+!*.cpp
+!*/in
